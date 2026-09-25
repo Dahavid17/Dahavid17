@@ -3,8 +3,8 @@
 <div align="center">
   <!-- Estatísticas do GitHub -->
   <a href="https://github.com/Dahavid17">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dahavid17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dahavid17&layout=compact&langs_count=7&theme=dracula" alt="Linguagens Mais Usadas" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dahavid17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=2" alt="Estatísticas do GitHub" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dahavid17&layout=compact&langs_count=7&theme=dracula&v=2" alt="Linguagens Mais Usadas" />
   </a>
 </div>
 
