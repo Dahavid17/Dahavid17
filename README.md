@@ -7,18 +7,13 @@
 
 ---
 
-### 🙋‍♂️ Sobre Mim
-- 📚 Estudando atualmente **HTML5**, **CSS3**, **JavaScript**, **React** e **Python**.
-- 🛠️ Desenvolvendo projetos práticos para construir meu portfólio.
-- 🎯 Objetivo: Evoluir constantemente como desenvolvedor e criar soluções úteis com código.
-- 💬 Vamos conversar sobre tecnologia, programação ou projetos!
-
----
-
 <!-- Estatísticas e Linguagens Mais Usadas -->
 <div align="center">
-  <a href="https://github.com/Dahavid17">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dahavid17&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <!-- Estatísticas e Sequência (Servidor Estável Demolab) -->
+  <a href="https://github.com/Dahavid17">
+    <img height="180" src="https://streak-stats.demolab.com/?user=Dahavid17&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dahavid17&layout=compact&langs_count=6&theme=dark" alt="Linguagens mais usadas" />
   </a>
 </div>
