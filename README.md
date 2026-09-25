@@ -13,10 +13,6 @@
   <a href="https://github.com/Dahavid17">
     <img height="180" src="https://streak-stats.demolab.com/?user=Dahavid17&theme=dracula&hide_border=true" alt="GitHub Streak" />
   </a>
-</div>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dahavid17&layout=compact&langs_count=6&theme=dark" alt="Linguagens mais usadas" />
-  </a>
-</div>
 
 <br />
 
