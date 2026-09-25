@@ -1,22 +1,13 @@
-# Hello World, I'm Davi, welcome! 👋
+# Hi there, I'm David! 
 
 <div align="center">
-  <!-- Estatísticas com tema escuro (Tokyonight) -->
+  <!-- Estatísticas e Sequência (Servidor Estável Demolab) -->
   <a href="https://github.com/Dahavid17">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dahavid17&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dahavid17&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens Mais Usadas" />
+    <img height="180" src="https://streak-stats.demolab.com/?user=Dahavid17&theme=dracula&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
 <br />
-
-<!-- Ícones Grandes de Tecnologias (SkillIcons) -->
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,py&theme=dark" alt="Minhas Tecnologias" />
-  </a>
-</div>
-
 <br />
 
 <!-- Redes Sociais e Contacto -->
