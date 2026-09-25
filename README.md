@@ -5,7 +5,7 @@
   <p>💻 Criando projetos de estudo e evoluindo minhas habilidades em Front-end e Python.</p>
 </div>
 
----
+
 
 <!-- Estatísticas e Linguagens Mais Usadas -->
 <div align="center">
